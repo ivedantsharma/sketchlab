@@ -150,10 +150,3 @@ Follow these steps to get the project up and running:
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
-
-## Author
-
-- **LinkedIn** - [aviral07](https://www.linkedin.com/in/aviral07/)
-- **Twitter** - [\_aviral07](https://twitter.com/_aviral07)
-- **Github** - [aviralsharma07](https://github.com/aviralsharma07)
-- **Resume** - [Resume](https://flowcv.com/resume/20ntf1waah)
